@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    line-height: 1.5;
+    background-color: antiquewhite;
+}
+
+.titolo {
+    
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+
+.img {
+    width: 600px;
+    height: auto;
+    border: 3px solid;
+    border-color: black;
+}
+
+ul {  
+    list-style: none;
+}
+
+ul li button {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#primo {
+    background-color: green;
+}
+
+#secondo {
+    background-color: white;
+}
+
+#terzo {
+    background-color: red;
+}
